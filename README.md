@@ -2,7 +2,7 @@
 
 Your computer does what you tell it. In plain English.
 
-Not "click File > New > Save As..." nonsense. Just: *"open notepad and write my assignment intro"* — and it does it. While you watch.
+Not "click File > New > Save As..." nonsense. Just: *"open notepad and write my assignment intro"* and it does it. While you watch.
 
 ---
 
@@ -12,7 +12,7 @@ You press **F9**. A small box pops up. You type what you want your computer to d
 
 That's it.
 
-Open apps. Type stuff. Fill forms. Copy things. Whatever you'd normally do with your hands — Lizzarss does it for you.
+Open apps. Type stuff. Fill forms. Copy things. Whatever you'd normally do with your hands, Lizzarss does it for you.
 
 I built this because I kept doing the same boring things on my PC over and over. Opening the same apps, typing the same things, filling the same forms. So I made something that handles all of that while I just sit back.
 
@@ -40,7 +40,7 @@ All by itself. In about 5 seconds.
 
 You need two things: **Python** and **Ollama**.
 
-**Ollama** is the AI brain. It runs on your own computer so nothing gets sent anywhere. Download it at [ollama.com/download](https://ollama.com/download) — it's free, takes 2 minutes to install.
+**Ollama** is the AI brain. It runs on your own computer so nothing gets sent anywhere. Download it at [ollama.com/download](https://ollama.com/download). Free, takes 2 minutes to install.
 
 After installing Ollama, open your terminal and run:
 
@@ -88,9 +88,9 @@ copy everything on screen
 
 ## The two modes
 
-**Normal mode** — just type your command. Fast, about 5 seconds. The AI uses its brain to figure out what to do without looking at your screen.
+**Normal mode**: just type your command. Fast, about 5 seconds. The AI uses its brain to figure out what to do without looking at your screen.
 
-**Look mode** — add `look:` before your command. The AI takes a screenshot first, sees exactly what's on your screen, then acts. Slower (30-60 seconds) but smarter for complicated stuff.
+**Look mode**: add `look:` before your command. The AI takes a screenshot first, sees exactly what's on your screen, then acts. Slower (30-60 seconds) but smarter for complicated stuff.
 
 ```
 look: click the submit button on this page
@@ -101,7 +101,7 @@ look: what app is open right now, close it
 
 ## It's not perfect (yet)
 
-Sometimes it clicks in the wrong place. Sometimes it misses a step. That's because the AI is guessing what to do based on your words — it gets better the more specific you are.
+Sometimes it clicks in the wrong place. Sometimes it misses a step. That's because the AI is guessing what to do based on your words. It gets better the more specific you are.
 
 Bad: `open my thing`
 Good: `open notepad and type hello`
@@ -121,6 +121,6 @@ When it messes up, just press F9 again and correct it.
 
 ## Built by
 
-David — Lagos, Nigeria.
+David, Lagos Nigeria.
 
 If you build something cool with this, let me know.
