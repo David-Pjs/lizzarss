@@ -20,6 +20,10 @@ I built this because I kept doing the same boring things on my PC over and over.
 
 ## Watch it work
 
+![Lizzarss popup](screenshots/popup.png)
+
+![Result in Notepad](screenshots/result.png)
+
 You type:
 ```
 open a new notepad and type hello world
